@@ -1,0 +1,34 @@
+@font-face {
+    font-family:spiderFont;
+    src: url(Assets/Font/FFH.otf);
+}
+.header{
+    background-color: #F1C530;
+}
+.white{
+    color: #ffffff;
+}
+.super{
+    margin-top: -21%;
+    margin-left: 28%;
+    font-size: 90px;
+    font-family:'spiderFont';
+}
+.vilains{
+    margin-left: 28%;
+}
+.yellow{
+    background-color: #F1C530;
+    margin-top: 250px;
+    padding-top: 3%;
+}
+.adversaire{ border: 5px solid black;  
+    width: 299px;
+    border-radius: 0 0 30px 30px;
+    border-top: none;
+}
+.jaune{
+    background-color: #F1C530;
+}
+
+

@@ -1,0 +1,18 @@
+@font-face {
+    font-family:spiderFont;
+    src: url(Assets/Font/FFH.otf);
+}
+body{
+    background-image: url("Assets/Illustration/img35.png");
+}
+.batman{color: white;
+    margin-top:24%;
+    margin-left: 16%;
+}
+.heros{font-size: 70px;
+    font-family:'spiderFont';
+}
+.coming{
+    margin-top: 5%;
+    font-size: 35px; 
+}

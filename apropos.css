@@ -1,0 +1,234 @@
+@font-face {
+    font-family:spiderFont;
+    src: url(Assets/Font/FFH.otf);
+}
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&family=Montserrat:wght@100;400&family=Poppins:wght@300&display=swap');
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+
+.white{
+    color: #ffffff;
+}
+.header{height: 80px;
+         background-color: #B11313;
+         padding-top: 1%;
+}
+.footer{
+    height: 400px;
+    background-color: #000000;
+    padding-top: 5%;
+}
+#langue{
+    background-color: #B11313;
+    border: none;
+    border-radius: 6px 6px;
+    width: 190px;
+    height: 30px;
+    text-align: start;
+}
+.red{background-color: red;
+    color: black;
+    width: 50px;
+    border-radius: 50%;
+}
+.apropos{
+    text-decoration: none;
+    color: #ffffff;
+}
+.apropos:hover{
+    color: #ffffff;
+}
+.accueil{text-decoration: none;
+    color: #ffffff;
+}
+.accueil:hover{
+    color: #ffffff;
+}
+.adve{text-decoration: none;
+    color: #ffffff;
+}
+.adve:hover{color: #ffffff;
+}
+.héros{text-decoration: none;
+    color: #ffffff;
+}
+.héros:hover{
+    color: #ffffff;
+}
+.bonus{
+    text-decoration: none;
+    color: #ffffff;
+}
+.bonus:hover{color: #ffffff;
+}
+.facebook{margin-left: 130%;
+}
+.instagram{
+    margin-left: 53%;
+}
+.youtube{
+    margin-left: -27%;
+}
+.twitter{
+    margin-left: -106%;
+}
+.users{
+    text-align: center;
+}
+.yellow{
+    background-color: #f1c530;
+}
+.spiderman{
+    padding-left: 42%;
+}
+.toile{
+    padding-top: 15%;
+    padding-left: 45%;
+    font-size: 90px;
+    font-family:'spiderFont';
+}
+.driing{padding-left: 45%;
+        font-size: 22px;
+
+}
+.marron{
+    background-color: #B11313;
+    height: 780px;
+    padding-top: 4%;
+}
+.petite{
+    padding-left: 160px;
+}
+.antenne{
+    font-family:'spiderFont';
+}
+.araignée{
+    font-family:'spiderFont';
+font-family: 'Poppins', sans-serif;
+}
+/* p.ridge {border-style: ridge;} */
+.nom{
+    border: 1px solid white;
+    width: 50%;
+    height: 10%;
+    border-radius: 18px;
+    padding-left: 2%;
+}
+.prenom{
+    border: 1px solid white;
+    width: 50%;
+    height: 10%;
+    border-radius: 18px;
+    padding-left: 2%;
+}
+.adresse{
+    border: 1px solid white;
+    width: 50%;
+    height: 10%;
+    border-radius: 18px;
+    padding-left: 2%;
+}
+.message{
+    border: 1px solid white;
+    width: 50%;
+    height: 30%;
+    border-radius: 15px;
+    padding-left: 2%;
+}
+.envoyer{
+    border: 1px solid white;
+    width: 20%;
+    height: 15%;
+    margin-left: 14%;
+    border-radius: 15px;
+    text-align: center;
+    padding-top: 2%;
+    margin-top: 5%;
+}
+.blue{
+    background-color: #114c92;
+    height: 720px;
+    padding-top: 3%;
+}
+.sayna{
+    padding-left: 159px;
+    font-family:'spiderFont';
+}
+.two{
+    padding-top: 2%;
+}
+.one{
+    padding-top: 3%;
+}
+.retrouve{
+    padding-left: 159px;
+    font-family:'spiderFont';
+    font-family: 'Poppins', sans-serif;
+
+}
+.text{   font-family:'spiderFont';
+    font-family: 'Poppins', sans-serif;
+
+}
+.fb{border: 1px solid white;
+    border-radius: 10px;
+    margin-top: 2%;
+    height: 55px;
+    width: 150px;
+    margin-left: 300px;
+    text-align: center;
+    padding-top: 1%;
+
+}
+.in{
+    border: 1px solid white;
+    border-radius: 10px;
+    margin-top: 2%;
+    width: 150px;
+    height: 55px;
+    margin-left:250px ;
+    text-align: center;
+    padding-top: 1%;
+}
+.yt{ 
+    border: 1px solid white;
+    border-radius: 10px;
+    margin-top: 2%;
+    height: 55px;
+    width: 150px;
+    margin-left: 290px;
+    text-align: center;
+    padding-top: 1%;
+}
+.marvel{ 
+       border: 1px solid white;
+       border-radius: 10px;
+       height: 55px;
+       width: 150px;
+       margin-top: 2%;
+       margin-left: 250px;
+       text-align: center;
+       padding-top: 1%;
+}
+.display{
+    display: inline-flex;
+}
+
+/* responsive */
+@media (max-width:770px) {
+.points{ background: none;
+         color: #ffffff;
+         border: none;
+         font-size: 30px;     
+}
+.points:hover{
+    background: none;
+}
+.points:active{
+    background: none;
+}
+
+    
+}
+

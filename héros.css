@@ -1,0 +1,145 @@
+@font-face {
+    font-family:spiderFont;
+    src: url(Assets/Font/FFH.otf);
+}
+*{
+    font-family: 'Montserrat';
+}
+   
+.header{
+    background-color: #114C92;
+}
+.white{
+    color: #ffffff;
+}
+.heros{
+    margin-top: -30%;
+    margin-left: 32%;
+    font-size: 70px;
+    font-family:'spiderFont';
+}
+.pouvoir{
+    margin-left: 32%;
+}
+.couleur{
+    background-color: #114C92;
+    margin-top: -6%;
+}
+.valeur{
+    padding-top: 34%;
+    margin-left: 8%;
+    font-family:'spiderFont';
+}
+.spider{
+    margin-left: 8%;
+}
+.spider-story{
+    margin-left: 8%;
+}
+.video{
+    padding-bottom: 8%;
+}
+.solide{
+    margin-top: -25%;
+    margin-left: 11%;
+    font-size: 45px;
+    font-family:'spiderFont';
+}
+.capable{
+    margin-left: 11%;
+}
+.background-bleu{
+    background-color: #114C92;
+}
+.longtext{
+    padding-top: 25%;
+}
+.jamais{
+    margin-left: 315px;
+}
+.seul{
+    font-family:'spiderFont';
+}
+.meilleurs{
+    font-family:'spiderFont';
+}
+.amis{
+    margin-left: 36%;
+    margin-top: -18%;
+    height: 287px;
+}
+.gwen-stacy{
+    font-family:'spiderFont';
+}
+.zendaya{
+margin-left: 10%;
+}
+.gwen{
+margin-left: 24%;
+}
+.background-rouge{
+    background-color: #B11313;
+}
+.scarlette{margin-top: 40%;
+          margin-left: -30%;
+
+}
+.tony{
+    margin-top: -30%;
+    margin-left: 34%;
+}
+.captain-america{
+    margin-left: -34%;
+    margin-top: 4%;
+}
+.avengers{
+    margin-left: 17%;
+    padding-top: 3%;
+    font-family:'spiderFont';
+}
+.image-one{
+    margin-left: 315px;
+    margin-top: 1%;
+}
+.image-two{
+    margin-left: 59px;
+    margin-top: 1%;
+}
+.image-three{
+    margin-left: 315px;
+    margin-top: 1%;
+}
+.image-four{
+    margin-left: 59px;
+    margin-top: 1%;
+
+}
+.ultime{
+    margin-left: 55%;
+    margin-top: -67%;
+}
+
+.spidermans{
+    background-image: url("Assets/Illustration/img33.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-bottom: -1%;
+}
+.hyper-riche{
+    background-color: #114C92;
+    opacity: 60%;
+    width: 30%;
+    margin-left: 62%;
+}
+.un-univers{
+    padding-top: 9%;
+    font-family:'spiderFont';
+}
+.spidey{
+    padding-left: 66%;
+    
+}
+.this{
+    text-align: start;
+    padding-top: 9%;
+}

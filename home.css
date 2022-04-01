@@ -1,0 +1,214 @@
+@font-face {
+    font-family:spiderFont;
+    src: url(Assets/Font/FFH.otf);
+}
+.white{
+    color:#ffffff;
+}
+.tous{margin: 0vh;
+    padding: 0vh;
+}
+body{
+    overflow-x: hidden;
+}
+.spider{
+    margin-top: -39%;
+    margin-left: 23%;
+    font-size: 60px;
+    font-size: 120px;
+    font-family:'spiderFont';
+}
+.button{background-color: #ffffff;
+        color: #B11313;
+        margin-left: 23%;
+        margin-top: 7%;
+        border-radius: 15px;
+        border: none;
+        width: 150px;
+        height: 50px;
+
+}
+.adversaire{ background: none ;
+           color: #ffffff;
+           border: 1px solid white;
+           border-radius: 15px;
+           width: 180px;
+           height: 50px;
+           margin-left: 2%;
+           font-size: 15px;
+
+}
+.araignée{
+            color: #ffffff;   
+            margin-top: 2%;
+            margin-left: 23%;
+}
+.cinema{
+    color: #ffffff;
+    margin-top: 9%;
+    margin-left: 23%;
+    font-family:'spiderFont';
+}
+.histoir{
+    color: #ffffff;
+    margin-left: 23%;
+}
+.spiderman{background-color: #B11313;
+    margin-left: -20%;
+}
+.one{
+    color: #ffffff;
+}
+.two{
+    color: #ffffff;
+}
+.three{
+    color: #ffffff;
+}
+.Tobey{
+    color: #B11313;
+    border: none;
+    width: 170px;
+    height: 50px;
+    border-radius: 15px;
+    margin-left: 18%;
+    margin-top: 3%;
+}
+.Andrew{color: #B11313;
+    border: none;
+    width: 170px;
+    height: 50px;
+    border-radius: 15px;
+    margin-left: 18%;
+    margin-bottom: 10%;
+}
+.Tom{
+    color: #B11313;
+    border: none;
+    width: 170px;
+    height: 50px;
+    border-radius: 15px;
+    margin-left: 18%;
+    margin-top: 2%;
+}
+.blue{
+    background-color: #114C92;
+}
+.deviens{
+    margin-top: -32%;
+    margin-left: 70%;
+    font-size: 50px;
+    font-family:'spiderFont';
+}
+.rempli{
+    margin-left: 58%;
+}
+.nom{
+    margin-left: 66%;
+    width: 500px;
+    height: 40px;
+    border: 2px solid black;
+    
+}
+.prenom{
+    margin-left: 66%;
+    width: 500px;
+    height: 40px;
+    border: 2px solid black;
+}
+.taille{
+    margin-left: 66%;
+    width: 500px;
+    height: 40px;
+    border-radius: 18px;
+    border: 2px solid black;
+    padding-left: 33px;
+}
+.poids{
+    margin-left: 66%;
+    width: 500px;
+    height: 40px;
+    border-radius: 18px;
+    border: 2px solid black;
+    padding-left: 33px;
+}
+.adresse{
+    margin-left: 66%;
+    width: 500px;
+    height: 40px;
+    border: 2px solid black;
+}
+.adresse{
+    margin-left: 66%;
+    width: 500px;
+    height: 40px;
+    border: 2px solid black;
+}
+.envoyer{
+    margin-left: 75%;
+    width: 200px;
+    background: none;
+    color: #ffffff;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    height: 55px;
+    margin-top: 1%;
+}
+.rouge{
+    background-color: #B11313;
+}
+.inscrit{
+    /* margin-top: -37%; */
+    margin-left: 21%; 
+    font-family:'spiderFont';
+    margin-top: -35%;
+
+}
+.univers{
+    margin-left: 21%;
+}
+.masqué{
+    margin-left: 52%;
+    /* margin-bottom: 0; */
+    /* margin-bottom: 201px; */
+
+}
+.name{margin-left: 21%;
+    margin-top: 4%;
+    background: none;
+    border: 1px solid white;
+    border-radius: 15px;
+    width: 330px;
+    height: 30px;
+    padding-left: 1%;
+
+}
+.email{margin-left: 21%;
+    margin-top: 1%;
+    background: none;
+    border: 1px solid white;
+    border-radius: 15px;
+    width: 330px;
+    height: 30px;
+    padding-left: 1%;
+
+}
+.box{
+    margin-left: 21%;
+    margin-top: 40px;
+}
+.check{
+    margin-left: 23%;
+    margin-top: -25px;
+}
+.newsletter{
+    margin-left: 24%;
+    margin-top: 3%;
+    width: 230px;
+    height: 50px;
+    border-radius: 15px;
+    border: none;
+    color: #B11313;
+    margin-bottom: 8%;
+}
+/* .blue{background-color: #114C92;} */
